@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("enter number");
-int n = int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine()!);
 
 if(n % 2 == 0) 
 {
