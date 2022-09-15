@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("enter number");
-int n = int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine()!);
 int x = 2;
 
 while(x <= n)
